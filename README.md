@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nearby Pharmacies App
 
 The Nearby Pharmacies App is a mobile application developed using Flutter that helps users find nearby pharmacies that are open at night, during weekends, and holidays. It provides users with the ability to locate pharmacies on a map, navigate to them, and view important information such as contact details.
@@ -40,3 +41,21 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 This project is licensed under the [MIT License](LICENSE).
 
+=======
+# phamarcie
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 283fb5f (first commit)
